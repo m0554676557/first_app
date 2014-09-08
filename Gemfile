@@ -18,8 +18,11 @@ gem 'jbuilder', '1.0.2'
 group :doc do
   gem 'sdoc', '0.3.20', require: false
 end
+<<<<<<< HEAD
 
 group :production do
   gem 'pg', '0.15.1'
   gem 'rails_12factor', '0.0.2'
 end
+=======
+>>>>>>> 3c0cc2203054370ebf1edaa1569668e53691db7e
