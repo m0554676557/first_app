@@ -3,8 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-<<<<<<< HEAD
 FirstApp::Application.load_tasks
-=======
-Rails.application.load_tasks
->>>>>>> 3c0cc2203054370ebf1edaa1569668e53691db7e
